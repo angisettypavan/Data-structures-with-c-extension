@@ -40,6 +40,8 @@ DIJIKSTRAS ALGORITHM
 ![Screenshot (283)](https://user-images.githubusercontent.com/113332132/190300680-452badd2-b1ea-480a-87ee-891eb6287dbd.png)
 PRIMS ALGORITHM
 ![Screenshot (285)](https://user-images.githubusercontent.com/113332132/190302466-8b598fbb-1904-49bd-a2fe-f5fc9a942c09.png)
+KRUSKALS ALGORITHM
+![Screenshot (286)](https://user-images.githubusercontent.com/113332132/190302984-ffbb205b-7403-4ce3-ba8c-d0948039b2a2.png)
 
 
 
