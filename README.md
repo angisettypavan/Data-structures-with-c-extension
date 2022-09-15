@@ -34,3 +34,6 @@ ODD OR EVEN
 ![Screenshot (275)](https://user-images.githubusercontent.com/113332132/190207673-351ddece-9b55-4084-a271-e3402fd68af9.png)
 HEAP SORT
 ![Screenshot (276)](https://user-images.githubusercontent.com/113332132/190211636-d05291c0-199d-4bfb-89a5-5273cc6317fe.png)
+BREADTH FIRST SEARCH 
+![Screenshot (281)](https://user-images.githubusercontent.com/113332132/190290804-f2c91968-0973-45df-9e0a-63ab227dc6e8.png)
+
