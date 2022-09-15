@@ -36,4 +36,5 @@ HEAP SORT
 ![Screenshot (276)](https://user-images.githubusercontent.com/113332132/190211636-d05291c0-199d-4bfb-89a5-5273cc6317fe.png)
 BREADTH FIRST SEARCH 
 ![Screenshot (281)](https://user-images.githubusercontent.com/113332132/190290804-f2c91968-0973-45df-9e0a-63ab227dc6e8.png)
+DEAPTH FIRST TRAVERSAL![Screenshot (282)](https://user-images.githubusercontent.com/113332132/190292068-f26c06d8-e47a-4d6f-a620-cf3a03517621.png)
 
